@@ -109,6 +109,14 @@ Full-stack web developer working with **Angular**, **.NET (C#)**, and **SQL** �
 | **[Fake News Detection System](https://github.com/coudharyprince/fake-news-detection)** | ML-based classification system to detect fake news using Natural Language Processing | Python, Machine Learning, HTML, CSS, JavaScript | 85%+ accuracy; compared Naive Bayes, Random Forest, and Logistic Regression; real-time credibility scores with explanations |
 | **[Sorting Algorithm Visualizer](https://github.com/coudharyprince/sorting-visualizer)** | Interactive visualization tool for 6+ sorting algorithms | HTML, CSS, JavaScript, Data Structures | Bubble, Merge, Quick, Heap, Insertion, Selection; dynamic speed controls and step-by-step execution |
 
+## 📌 Pinned Repositories
+
+| Repository | About | Stack |
+|------------|-------|-------|
+| **[online-banking-system](https://github.com/coudharyprince/online-banking-system)** | Full-stack banking platform — accounts, transfers, statements, RBAC | Angular · .NET C# · SQL |
+| **[fake-news-detection](https://github.com/coudharyprince/fake-news-detection)** | ML-based fake news classifier with 85%+ accuracy | Python · NLP |
+| **[sorting-visualizer](https://github.com/coudharyprince/sorting-visualizer)** | Interactive visualizer for 6+ sorting algorithms | JavaScript · DSA |
+
 ---
 
 ## 💼 Experience
