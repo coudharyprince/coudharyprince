@@ -1,31 +1,39 @@
 # Prince Kumar
 
-**Data Analyst | Aspiring Data Scientist | Open-Source Enthusiast**
+**Aspiring Data Analyst | Data Science Learner | Python & SQL**
 
-I’m interested in using data to answer practical questions, communicate insights clearly, and build reproducible analytical workflows.
+I’m building practical skills in data analysis and software development, with an interest in turning raw data into clear, useful insights. I value reproducible work, honest documentation, and continuous learning.
 
-- **Analytics:** exploratory data analysis, financial datasets, statistical analysis, and visualization
-- **Python:** Pandas, NumPy, Matplotlib, and SciPy
-- **Other experience:** SQL and full-stack application development
-- **Open source:** interested in Python, data tooling, documentation, and beginner-friendly issues
+## Focus areas
 
-## Selected project
+- **Data analysis:** data cleaning, exploratory analysis, statistical thinking, and visualization
+- **Tools and languages:** Python, SQL, and the Python data-analysis ecosystem
+- **Development:** web fundamentals and full-stack application projects
+- **Open source:** learning through documentation improvements, small bug fixes, tests, and beginner-friendly contributions
 
-### Online Banking System
-A full-stack application with account management, transfers, transaction history, and customer/admin access controls.
+## Selected projects
 
-- **Stack documented in the project:** Angular, .NET/C#, SQL
-- [Explore the repository](https://github.com/coudharyprince/online-banking-system)
+### [FX Trading Results Analysis](https://github.com/coudharyprince/fx_trading_analysis)
+A Python-based financial-data analysis project covering trade results, distributions, risk measures, and Monte Carlo simulation. **This is a recreation/adaptation of an unpublished reference project**, not an independently originated project.
 
-## What I’m working toward
+### [Online Banking System](https://github.com/coudharyprince/online-banking-system)
+A full-stack application project exploring account management, fund transfers, transaction history, and customer/admin workflows. The repository documents an Angular, .NET/C#, and SQL stack.
 
-- Strengthening Python and SQL for analytical problem-solving
-- Improving statistical reasoning and clear data visualization
-- Publishing reproducible notebooks with documented methods and limitations
-- Contributing useful documentation, tests, bug fixes, and examples to open-source projects
+### [API-Driven User Directory](https://github.com/coudharyprince/lgmtask2)
+A front-end exercise using JavaScript's Fetch API to retrieve and display sample user data.
+
+### [Todo List App](https://github.com/coudharyprince/lgmtask1)
+A browser-based task list built with HTML, CSS, and JavaScript, with tasks persisted using local storage.
+
+## Current goals
+
+- Strengthen Python and SQL through practical analytical projects
+- Improve statistical reasoning and communicate findings with clear visualizations
+- Publish well-documented notebooks with methods, assumptions, and limitations
+- Make consistent, useful contributions to open-source projects
 
 ## Collaboration
 
-I’m especially interested in beginner-friendly contributions and projects involving Python, data analysis, visualization, and documentation.
+I’m interested in beginner-friendly open-source work involving Python, data analysis, visualization, documentation, and testing.
 
-[GitHub repositories](https://github.com/coudharyprince?tab=repositories)
+[Browse all repositories](https://github.com/coudharyprince?tab=repositories)
