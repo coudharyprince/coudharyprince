@@ -1,8 +1,8 @@
 # Prince Kumar
 
-**Aspiring Data Analyst | Data Science Learner | Python & SQL**
+**Aspiring Data Analyst | Python & SQL | Data Science Learner**
 
-I’m building practical skills in data analysis and software development, with an interest in turning raw data into clear, useful insights. I value reproducible work, honest documentation, and continuous learning.
+I’m developing practical skills in data analysis and software development, with a focus on turning data into clear, useful insights. I value reproducible workflows, transparent project attribution, and concise technical documentation.
 
 ## Focus areas
 
@@ -14,7 +14,7 @@ I’m building practical skills in data analysis and software development, with 
 ## Selected projects
 
 ### [FX Trading Results Analysis](https://github.com/coudharyprince/fx_trading_analysis)
-A Python-based financial-data analysis project covering trade results, distributions, risk measures, and Monte Carlo simulation. **This is a recreation/adaptation of an unpublished reference project**, not an independently originated project.
+A Python-based financial-data analysis project exploring trade results, return distributions, risk measures, and Monte Carlo simulation. **My role:** recreation and adaptation of an unpublished reference project, with reference attribution documented in the repository README.
 
 ### [Online Banking System](https://github.com/coudharyprince/online-banking-system)
 A full-stack application project exploring account management, fund transfers, transaction history, and customer/admin workflows. The repository documents an Angular, .NET/C#, and SQL stack.
