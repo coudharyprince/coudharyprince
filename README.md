@@ -1,6 +1,6 @@
 # Prince Kumar
 
-**Data Analyst | Aspiring Data Scientist | Open-Source Contributor**
+**Data Analyst | Aspiring Data Scientist | Open-Source Enthusiast**
 
 I’m interested in using data to answer practical questions, communicate insights clearly, and build reproducible analytical workflows.
 
